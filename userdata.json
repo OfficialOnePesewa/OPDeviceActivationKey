@@ -1,14 +1,36 @@
-[
+{
+  "loginTitle": "🤭 OP PREMIUM ACCESS 🤭   ",
+  "loginDescription": "Login to unlock your exclusive VIP features.",
+  "loginButtonText": "Login",
+  "contactButtonText": "Contact",
+  "expiredTitle": "Subscription Expired",
+  "expiredDescription": "Your access expired on %s. Please renew to continue.",
+  "renewButtonText": "Renew Now",
+  "renewUrl": "https://wa.me/233544482494",
+  "telegramUrl": "https://t.me/OfficialOnePesewa",
+  "whatsappUrl": "https://wa.me/233544482494",
+  "instagramUrl": "https://t.me/OfficialOnePesewa",
+  "users": [
     {
-        "device_id": "0c957e8f6e3dad19",
-        "key": "pesewagh2025",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
+      "username": "OfficialOnePesewa",
+      "password": "OfficialOnePesewa",
+      "expiryDate": "2050-12-01",
+      "deviceId": "0c957e8f6e3dad19",
+      "appId": "com.expire.dialog.dev"
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
-]
+      "username": "#",
+      "password": "#",
+      "expiryDate": "#",
+      "deviceId": "#",
+      "appId": "#"
+    }, 
+     {
+      "username": "#",
+      "password": "#",
+      "expiryDate": "#",
+      "deviceId": "#",
+      "appId": "#"
+   }
+  ]
+}
